@@ -1,0 +1,9 @@
+To explain why TDD is required and rules in TDD
+
+When test code is run it will invoke the production code and validates the result
+
+3A'S
+
+Arrange
+Act
+Assert
